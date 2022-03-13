@@ -10,7 +10,7 @@ The new addition to the webpage is that it now filters our data given certain cr
 
 <img src ="Resources/input_box.png" width = "150" alt ="inputboxes" title="Input Box">
 <img src ="Resources/input_box_code.png" height="200" alt ="inputboxescode" title="Input Box Code">
-<img src ="Resources/console_log.png" width="400" alt ="consolelog" title="Console Log">
+<img src ="Resources/console_log.png" width="600" alt ="consolelog" title="Console Log">
 <img src ="Resources/filter_code.png" height="200" alt ="filtercode" title="Filter Code">
 
 
@@ -19,7 +19,7 @@ The new addition to the webpage is that it now filters our data given certain cr
 The interactivity of this next part begins when we put in a new value into an input box. After that, behind the scenes the code "Filter Table Code" begins to work. In our console (insert screenshot here) we see the 3 values per input box stored into our filters dictionary. With those in our dictionary, we then filter our tableData by every value that exists in our filters dictionary, by checking for key:value pairs that coexist inside of our data, if there is a match, then the table will be rebuilt, as seen in "Filtered Table".
 
 <img src ="Resources/filter_table_code.png" width="200" alt ="filter table code" title="Filtered Table Code">
-<img src ="Resources/filtered_table.png" width="200" alt ="filteredtable" title="Filtered Table">
+<img src ="Resources/filtered_table.png" width="600" alt ="filteredtable" title="Filtered Table">
 
 
 # Summary (May need to flesh up after Off Hours)
